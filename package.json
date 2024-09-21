@@ -29,6 +29,7 @@
     "fastify": "4.28.0",
     "fastify-bcrypt": "^1.0.1",
     "mongoose": "^7.3.1",
+    "real-estate-management-backend": "file:",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
