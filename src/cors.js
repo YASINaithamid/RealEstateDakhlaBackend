@@ -4,9 +4,8 @@ export const setFastifyCors = function (fastify) {
   fastify.register(FastifyCors, {
     // put your options here
     origin: [
-      "http://localhost:9000",
-      "http://localhost:8100",
-      "http://localhost:4200",
+      "https://illustrious-dasik-79c411.netlify.app/",
+      
     ],
   });
 };
